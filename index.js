@@ -1,5 +1,5 @@
 // index.js
-require('dotenv').config()
+require('dotenv-vault-core').config()
 
 const http = require('http')
 
